@@ -28,4 +28,3 @@
 ### Output: first: 1 middle: [2,3,4,5] last: 6
 ### Name: Surname, First Name MI.
 ### Section: 2ECE-X Date Submitted: January X, 202X
-
